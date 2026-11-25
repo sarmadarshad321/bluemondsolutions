@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Left diagonal stroke -->
+  <rect x="1" y="2" width="4" height="11" rx="2" ry="2"
+        transform="rotate(-20, 3, 7.5)"
+        fill="#5B67F8"/>
+  <!-- Right diagonal stroke -->
+  <rect x="7" y="2" width="4" height="11" rx="2" ry="2"
+        transform="rotate(20, 9, 7.5)"
+        fill="#5B67F8"/>
+  <!-- Bottom dot -->
+  <circle cx="11.5" cy="13" r="1.5" fill="#5B67F8"/>
+</svg>
